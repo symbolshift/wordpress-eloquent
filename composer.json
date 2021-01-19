@@ -1,8 +1,9 @@
 {
-    "name": "drewjbartlett/wordpress-eloquent",
+    "name": "symbolshift/wordpress-eloquent",
     "description": "A Laravel wrapper for wordpress which turns all Wordpress models into Laravel Eloquent Models.",
     "keywords": ["wordpress", "eloquent", "laravel"],
     "homepage": "https://github.com/drewjbartlett/wordpress-eloquent",
+    "version": "0.2.2",
     "support": {
         "issues": "https://github.com/drewjbartlett/wordpress-eloquent/issues",
         "source": "https://github.com/drewjbartlett/wordpress-eloquent"
@@ -11,7 +12,10 @@
         {
             "name": "Drew J Bartlett",
             "email": "drewjbartlett@gmail.com"
-        }
+        },
+	{
+	    "name": "symbolshift"
+	}
     ],
     "minimum-stability": "dev",
     "require": {
